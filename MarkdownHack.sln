@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownHack", "MarkdownHack\MarkdownHack.csproj", "{634CBED4-2B63-4D01-A21B-B0B4C242BD03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownHack.Tests", "MarkdownHack.Tests\MarkdownHack.Tests.csproj", "{AF69FEF6-F926-4629-98E5-D84939AFC5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634CBED4-2B63-4D01-A21B-B0B4C242BD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634CBED4-2B63-4D01-A21B-B0B4C242BD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634CBED4-2B63-4D01-A21B-B0B4C242BD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634CBED4-2B63-4D01-A21B-B0B4C242BD03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF69FEF6-F926-4629-98E5-D84939AFC5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF69FEF6-F926-4629-98E5-D84939AFC5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF69FEF6-F926-4629-98E5-D84939AFC5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF69FEF6-F926-4629-98E5-D84939AFC5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
